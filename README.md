@@ -142,7 +142,6 @@ Recognised for building strong security culture, driving policy adoption, and en
 ---
 
 ## 🛠️ Technical & Language Skills
-ext
 📊 Risk Dashboards & MI Development
 📈 Excel / VBA | Python | SQL
 ⚙️ Risk Systems | Workflow Tools | Data Analytics
