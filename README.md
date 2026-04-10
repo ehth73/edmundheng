@@ -151,7 +151,7 @@ Recognised for building strong security culture, driving policy adoption, and en
 
 ## 📊 GitHub Stats
 
-![Edmund's GitHub Stats](https://github-readme-stats.vercel.app/api?username=edmundheng&show_icons=true&theme=tokyonight)
+![Edmund's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ehth73&show_icons=true&theme=tokyonight)
 
 ---
 
@@ -166,4 +166,4 @@ Recognised for building strong security culture, driving policy adoption, and en
 
 ---
 
-⭐️ *From [Edmund Heng](https://github.com/edmundheng)*
+⭐️ *From [Edmund Heng](https://github.com/ehth73)*
