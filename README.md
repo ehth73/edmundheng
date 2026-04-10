@@ -151,7 +151,7 @@ Recognised for building strong security culture, driving policy adoption, and en
 
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/edmund-heng-%E7%8E%8B%E5%8B%81%E4%B9%8B-4bb87a4/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/edmund-heng-4bb87a4/?isSelfProfile=true)
 - 📧 [Email Me](mailto:edmund.heng@gmail.com)
 
 ---
