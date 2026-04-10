@@ -160,4 +160,4 @@ Recognised for building strong security culture, driving policy adoption, and en
 
 ---
 
-⭐️ *From [Edmund Heng](https://github.com/ehth73)*
+⭐️ *From [Edmund Heng](https://github.com/ehth73/edmundheng)*
