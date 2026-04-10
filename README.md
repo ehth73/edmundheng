@@ -146,3 +146,24 @@ Recognised for building strong security culture, driving policy adoption, and en
 📈 Excel / VBA | Python | SQL
 ⚙️ Risk Systems | Workflow Tools | Data Analytics
 🤖 Automation & Visualisation
+
+---
+
+## 📊 GitHub Stats
+
+![Edmund's GitHub Stats](https://github-readme-stats.vercel.app/api?username=edmundheng&show_icons=true&theme=tokyonight)
+
+---
+
+## 📫 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/edmund-heng-%E7%8E%8B%E5%8B%89%E4%B9%8B-4bb87a4/)
+- 📧 [Email Me](mailto:your.email@example.com)
+
+---
+
+> *"Building resilience at the intersection of cyber security, technology risk, and governance."*
+
+---
+
+⭐️ *From [Edmund Heng](https://github.com/edmundheng)*
